@@ -1,6 +1,10 @@
 Welcome To NatavanBLOX Official Github Repository. 
 
 
+# NOTE: 
+
+If you not entered username maybe termination your account. Please enter username to don't risk it.
+
 
 # Let's download! 
 
