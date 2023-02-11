@@ -28,6 +28,11 @@ You can open our app and, start for fun.
 
 
 
+# Support.
+
+Fork & star repository to support everyone!
+
+
 
 # Tags: 
 
