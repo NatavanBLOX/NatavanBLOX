@@ -31,4 +31,4 @@ You can open our app and, start for fun.
 
 # Tags: 
 
-NatavanBLOX, Natavan, Natavan Blox, Discord, Roblox, Noblox, Discord Bot, Bot, Slash, command, Slash command, King Tab, Amazon, Amazon Fox, Fox, Live, Livestream, Stream, app, Windows, Windows App, .exe, exe
+NatavanBLOX, Natavan, Natavan Blox, Discord, Roblox, Noblox, Discord Bot, Bot, Slash, command, Slash command, King Tab, Amazon, Amazon Fox, Fox, Live, Livestream, Stream, app, Windows, Windows App, Macos, os, mac, mac os, .exe, exe, .dmg, dmg
