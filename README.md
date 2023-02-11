@@ -36,4 +36,4 @@ Fork & star repository to support everyone!
 
 # Tags: 
 
-NatavanBLOX, Natavan, Natavan Blox, Discord, Roblox, Noblox, Discord Bot, Bot, Slash, command, Slash command, King Tab, Amazon, Amazon Fox, Fox, Live, Livestream, Stream, app, Windows, Windows App, Macos, os, mac, mac os, .exe, exe, .dmg, dmg
+NatavanBLOX, Natavan, Natavan Blox, Blox, Discord, Roblox, Noblox, Discord Bot, Bot, Slash, command, Slash command, King Tab, Amazon, Amazon Fox, Fox, Live, Livestream, Stream, app, Windows, Windows App, Macos, os, mac, mac os, .exe, exe, .dmg, dmg
