@@ -10,12 +10,12 @@ If you signup account and, if you not entered username maybe termination your ac
 
 To get started you need to download Windows & macos App. You can view release to download Windows & macos App. 
 
-I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos App. 
+I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos app. 
 
 Windows app: 
 https://bit.ly/NatavanBLOXWindows
 
-Macos App:
+Macos app:
 https://bit.ly/NatavanBLOXMacos
 
 
