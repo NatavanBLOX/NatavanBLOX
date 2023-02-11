@@ -3,7 +3,7 @@ Welcome To NatavanBLOX Official Github Repository.
 
 # NOTE: 
 
-If you signup and, if you not entered username maybe termination your account. Please enter username to don't risk it if signup.
+If you signup account and, if you not entered username maybe termination your account. Please enter username to don't risk it if you signup account.
 
 
 # Let's download! 
