@@ -4,6 +4,10 @@ Welcome To NatavanBLOX Official Github Repository.
 # Trailer
 No longer support
 
+
+# Publish on release section
+No longer add or update game. Only follow twitter account can access download links!
+
 # NOTE: 
 
 If you signup account and, if you not entered username maybe termination your account. Please enter username to don't risk it if you signup account.
@@ -11,7 +15,8 @@ If you signup account and, if you not entered username maybe termination your ac
 
 # Let's download! 
 
-To get started you need to download Windows & macos app. You can view release to download Windows & macos app. 
+To get started you need to download Windows & macos app. You can view twitter to download exe or dmg files:
+https://twitter.com/NatavanBLOX. 
 
 I recommended download Windows & macos app only link. Because, release section maybe not released app. So, click the link to download Windows & macos app. 
 
